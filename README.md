@@ -1,6 +1,6 @@
 # React + Vite
 
-<a href="https://sami-sour.github.io/Todo-App/">View Live</a> here.
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
